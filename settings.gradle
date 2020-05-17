@@ -1,0 +1,3 @@
+rootProject.name='Contour 2D Plot'
+include ':app'
+include ':contourplot'
