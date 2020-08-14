@@ -1,4 +1,4 @@
-# ContourPlot
+# ContourPlot For Android
 Library Android for generate contour plot 2D
 
 This source code is a modification from [here](https://github.com/piotrdzwiniel/Contour2DPlot).
